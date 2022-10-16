@@ -1,3 +1,9 @@
+@media only screen and {
+  (max-width: 620;) {
+    width: 100%;
+  }
+}
+
 * body {
   background-color: #eaac8b;
 }
@@ -11,7 +17,7 @@
 .section4 {
   max-width: 100%;
   height: 100vh;
-  background-color: #133c55;
+  background-color: #0478d6;
 }
 
 .container {
@@ -151,6 +157,17 @@ li:hover:after {
   color: #3e5c76;
 }
 .footer1 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  padding: 1rem;
+  background-color: #1a2238;
+  color: #3e5c76;
+}
+
+.footer2 {
   position: absolute;
   bottom: 0;
   right: 0;
