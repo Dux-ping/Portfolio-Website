@@ -30,6 +30,22 @@ body {
   flex-direction: column-reverse;
 }
 
+.skills {
+  margin-left: 25rem;
+  margin-right: 20rem;
+  margin-bottom: 7.5rem;
+  color: white;
+  font-size: 1.4rem;
+}
+
+.skills1 {
+  margin-left: 25rem;
+  margin-right: 20rem;
+  margin-bottom: 7.5rem;
+  color: white;
+  font-size: 1.4rem;
+}
+
 .junior {
   margin-left: 20rem;
   margin-right: 20rem;
@@ -151,6 +167,7 @@ li:hover:after {
 }
 
 .footer {
+  
   position: absolute;
   width: 100%;
   padding: 1rem;
@@ -202,3 +219,4 @@ h5 {
   font-size: 25px;
   color: black;
 }
+
